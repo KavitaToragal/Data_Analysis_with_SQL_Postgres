@@ -1,4 +1,4 @@
-# SQL Data Hygiene: Hearing Survey Dataset
+# SQL Data Hygiene: Hearing Wellness Survey
 
 **Author:** Kavita Toragal  
 **Date:** September 8, 2025  
