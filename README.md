@@ -1,8 +1,5 @@
 # SQL Data Hygiene: Hearing Wellness Survey
 
-**Author:** Kavita Toragal  
-**Date:** September 8, 2025  
-
 ## Overview
 This project demonstrates **data cleaning and preprocessing** of a hearing wellness survey dataset using **PostgreSQL**.  
 Clean, standardized data ensures reliable analysis, visualization, and insights.  
